@@ -1,0 +1,7 @@
+GET http://20.244.56.144/test/register
+{
+    "ownerName": "Anand Kumar Jha",
+    "rollNo":"1JS21CS023",
+    "ownerEmail": "anandkrishnajha07@gmail.com",
+    "accessCode": "uAbyIc"
+}
